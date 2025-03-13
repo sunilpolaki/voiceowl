@@ -89,11 +89,7 @@ xABXanx
 Aan xnA'
 
 ## Try integration tests
-
-Perform integration tests for screen transition.
-
-```
-$ ./mvnw clean verify -P tomcat90
-```
-ncbna
-sac nas
+n cdn ,mdsacsa
+acmsa ,mcsa
+c,samcsa
+csa, csa
