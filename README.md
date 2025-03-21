@@ -97,3 +97,6 @@ nanmas,mcsa
 cscmnamncsac
 sac.,samc,sac
 asc.
+nmdsbnanam
+amnsam,a,msa
+csaa.s,c
